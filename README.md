@@ -24,7 +24,7 @@ A basic 555 timer-based (or microcontroller-based) LED blinking circuit.
 
 ## 🔗 Falstad Simulation
 Click to open the circuit in Falstad:  
-👉 [Open LED Blinker Simulation]([https://www.falstad.com/circuit/circuitjs.html?cct=$...](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEDoE4DMAWATKhl0A2AdnVW0gA4RNURjlJkBTAWjDACgxCkxNMIdJUHZK1YYMIhKaEpUJkBWSglWcA5iGyYmCYtJ17yUKJwBK2qkMijr2YtlNNdIOkw-QEnAO5CiNDz+0ugITpC+2gghYVYSsRF+FPFOHE6h4ZwATuBg6bFpgdJMYPDZ2o40mBIBAtRM2BTchOm11TRwVdROACbMAGYAhgCuADYALqyjzD3gzlCwXEmu+tK6egZmy3oC2iubETmFmEHHlB5WcJFnJbvVHte7CHngd+dbr4In0sdBiXHITZGQHFTgAY1yTlWAOhghg8EgEEw0CwxA4mDCLQcYCQ8MRZhy2GiQli6ACGVMjX+Dic32CRQ+N0hyF2-0KCF27IOkXWXQ6G1BfjJayCwpoqFBPFaawlFVpst6AxGEymMzmF3hSzlfJp4tBAGcAehbEaEqYhqN9cxwTDdskQTRwGxqIRYAj3QiIHivZwAPYyECEOEdVB0bBeBaQXHaAPoThAA))
+👉 [Open LED Blinker Simulation](https://tinyurl.com/ymw78zgp)
 
 You can simulate, tweak, and interact with the circuit live in your browser.
 
