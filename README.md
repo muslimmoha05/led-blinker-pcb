@@ -26,7 +26,6 @@ A basic 555 timer-based (or microcontroller-based) LED blinking circuit.
 Click to open the circuit in Falstad:  
 👉 [Open LED Blinker Simulation](https://tinyurl.com/ymw78zgp)
 
-![Simulation](falstad/circuit_simulation.mp4)
 ![Design](falstad/circuit_design.png)
 
 You can simulate, tweak, and interact with the circuit live in your browser.
@@ -34,7 +33,6 @@ You can simulate, tweak, and interact with the circuit live in your browser.
 ## 📂 Files Included
 - `KiCad/`: Full KiCad project files
 - `falstad/`: Falstad simulation export
-- `images/`: Screenshots of schematic and PCB
   
 ## 🏁 Next Steps
 - Test and debug the real circuit
