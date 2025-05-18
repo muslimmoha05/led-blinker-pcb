@@ -11,8 +11,12 @@ To learn:
 ## ⚡ Circuit Overview
 A basic 555 timer-based (or microcontroller-based) LED blinking circuit.
 
-![Schematic](images/schematic.png)
-![PCB Layout](images/pcb_render.png)
+![Schematic](KiCad/schematic.png)
+![Schematic](KiCad/schematic_zoom.png)
+![PCB Layout](KiCad/pcb_render.png)
+![PCB Layout](KiCad/pcb_render_3D.png)
+![PCB Layout](KiCad/pcb_routing.png)
+![PCB Layout](KiCad/pcb_render_back.png)
 
 ## 🧰 Tools Used
 - [KiCad](https://www.kicad.org/) for schematic and PCB design
