@@ -24,7 +24,7 @@ A basic 555 timer-based (or microcontroller-based) LED blinking circuit.
 
 ## 🔗 Falstad Simulation
 Click to open the circuit in Falstad:  
-👉 [Open in Falstad](falstad/led_blinker.falstad.html)
+👉 [Open in Falstad]([falstad/led_blinker.falstad.html](https://tinyurl.com/yvckmpzx))
 
 ## 📂 Files Included
 - `KiCad/`: Full KiCad project files
