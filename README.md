@@ -30,10 +30,8 @@ Click to open the circuit in Falstad:
 - `KiCad/`: Full KiCad project files
 - `falstad/`: Falstad simulation export
 - `images/`: Screenshots of schematic and PCB
-- `docs/`: Notes about the design process (optional)
-
+  
 ## 🏁 Next Steps
-- Order and assemble the PCB
 - Test and debug the real circuit
 - Improve the design with features (button input, variable blink rate)
 
